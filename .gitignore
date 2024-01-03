@@ -3,3 +3,4 @@ log/
 ota/
 plugins/
 BambuNetworkEngine.conf
+hints.cereal
