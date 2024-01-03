@@ -1,0 +1,37 @@
+{
+    "additional_cooling_fan_speed": [
+        "0"
+    ],
+    "default_filament_colour": [
+        "#0080FF"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "15"
+    ],
+    "filament_flow_ratio": [
+        "0.98"
+    ],
+    "filament_settings_id": [
+        "Inland Shimmer PLA - Blue"
+    ],
+    "filament_start_gcode": [
+        "; filament start gcode\n{if  (bed_temperature[current_extruder] >45)||(bed_temperature_initial_layer[current_extruder] >45)}M106 P3 S0\n{elsif(bed_temperature[current_extruder] >35)||(bed_temperature_initial_layer[current_extruder] >35)}M106 P3 S0\n{endif}\n\n{if activate_air_filtration[current_extruder] && support_air_filtration}\nM106 P3 S{during_print_exhaust_fan_speed_num[current_extruder]} \n{endif}"
+    ],
+    "filament_vendor": [
+        "Inland"
+    ],
+    "from": "User",
+    "inherits": "PolyLite PLA @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "Inland Shimmer PLA - Blue",
+    "nozzle_temperature_initial_layer": [
+        "225"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "version": "1.7.0.30"
+}

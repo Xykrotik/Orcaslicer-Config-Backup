@@ -1,0 +1,46 @@
+{
+    "additional_cooling_fan_speed": [
+        "25"
+    ],
+    "default_filament_colour": [
+        "#00FFFF"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "13"
+    ],
+    "filament_settings_id": [
+        "Inland PLA - Light Blue"
+    ],
+    "filament_vendor": [
+        "Inland"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Inland PLA - Light Blue",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "pressure_advance": [
+        "0.019"
+    ],
+    "slow_down_layer_time": [
+        "4"
+    ],
+    "slow_down_min_speed": [
+        "10"
+    ],
+    "textured_plate_temp": [
+        "60"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "version": "1.7.0.30"
+}

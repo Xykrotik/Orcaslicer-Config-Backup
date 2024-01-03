@@ -1,0 +1,34 @@
+{
+    "additional_cooling_fan_speed": [
+        "0"
+    ],
+    "default_filament_colour": [
+        "#702602"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.9405"
+    ],
+    "filament_settings_id": [
+        "PolyLite Mettalic PLA Pro - Bronze"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PolyLite Mettalic PLA Pro - Bronze",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "pressure_advance": [
+        "0.018"
+    ],
+    "slow_down_layer_time": [
+        "4"
+    ],
+    "slow_down_min_speed": [
+        "15"
+    ],
+    "version": "1.7.0.30"
+}

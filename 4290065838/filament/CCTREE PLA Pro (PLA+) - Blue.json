@@ -1,0 +1,28 @@
+{
+    "additional_cooling_fan_speed": [
+        "25"
+    ],
+    "default_filament_colour": [
+        "#0000FF"
+    ],
+    "filament_flow_ratio": [
+        "0.99"
+    ],
+    "filament_settings_id": [
+        "CCTREE PLA Pro (PLA+) - Blue"
+    ],
+    "filament_vendor": [
+        "CCTREE"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "CCTREE PLA Pro (PLA+) - Blue",
+    "slow_down_layer_time": [
+        "4"
+    ],
+    "slow_down_min_speed": [
+        "10"
+    ],
+    "version": "1.7.0.30"
+}

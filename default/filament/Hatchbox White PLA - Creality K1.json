@@ -1,0 +1,19 @@
+{
+    "filament_settings_id": [
+        "Hatchbox White PLA - Creality K1"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Hatchbox White PLA - Creality K1",
+    "nozzle_temperature": [
+        "205"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "205"
+    ],
+    "slow_down_min_speed": [
+        "20"
+    ],
+    "version": "1.7.0.0"
+}

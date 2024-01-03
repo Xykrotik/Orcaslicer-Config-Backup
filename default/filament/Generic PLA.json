@@ -1,0 +1,34 @@
+{
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "6.72"
+    ],
+    "filament_settings_id": [
+        "Generic PLA"
+    ],
+    "filament_shrink": [
+        "105%"
+    ],
+    "filament_vendor": [
+        "TECHBEARS"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Generic PLA",
+    "nozzle_temperature": [
+        "200"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "200"
+    ],
+    "version": "1.7.0.0"
+}

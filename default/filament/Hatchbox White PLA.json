@@ -1,0 +1,40 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "25"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "7.68"
+    ],
+    "filament_settings_id": [
+        "Hatchbox White PLA"
+    ],
+    "filament_shrink": [
+        "97.5%"
+    ],
+    "filament_vendor": [
+        "Hatchbox"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Hatchbox White PLA",
+    "nozzle_temperature": [
+        "200"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "200"
+    ],
+    "pressure_advance": [
+        "0.025"
+    ],
+    "version": "1.7.0.0"
+}

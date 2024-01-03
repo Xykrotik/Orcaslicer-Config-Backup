@@ -1,0 +1,13 @@
+{
+    "filament_flow_ratio": [
+        "1.029"
+    ],
+    "filament_settings_id": [
+        "Generic PLA Flow Rate Calibrated"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Generic PLA Flow Rate Calibrated",
+    "version": "1.7.0.30"
+}

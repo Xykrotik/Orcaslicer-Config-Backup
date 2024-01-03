@@ -1,0 +1,40 @@
+{
+    "additional_cooling_fan_speed": [
+        "20"
+    ],
+    "complete_print_exhaust_fan_speed": [
+        "40"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "40"
+    ],
+    "filament_flow_ratio": [
+        "1.0191"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "Temp Hatchbox"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Temp Hatchbox",
+    "nozzle_temperature": [
+        "200"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "200"
+    ],
+    "slow_down_layer_time": [
+        "4"
+    ],
+    "slow_down_min_speed": [
+        "10"
+    ],
+    "textured_plate_temp": [
+        "60"
+    ],
+    "version": "1.7.0.30"
+}

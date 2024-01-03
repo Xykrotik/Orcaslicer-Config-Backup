@@ -1,0 +1,46 @@
+{
+    "default_filament_colour": [
+        "#8080FF"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "15"
+    ],
+    "filament_flow_ratio": [
+        "0.97561"
+    ],
+    "filament_max_volumetric_speed": [
+        "16"
+    ],
+    "filament_settings_id": [
+        "Inland Shimmer PLA - Light Blue"
+    ],
+    "filament_vendor": [
+        "Inland"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Inland Shimmer PLA - Light Blue",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "pressure_advance": [
+        "0.018"
+    ],
+    "slow_down_layer_time": [
+        "4"
+    ],
+    "textured_plate_temp": [
+        "60"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "version": "1.7.0.30"
+}

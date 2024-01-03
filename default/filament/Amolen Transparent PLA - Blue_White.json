@@ -1,0 +1,46 @@
+{
+    "additional_cooling_fan_speed": [
+        "0"
+    ],
+    "default_filament_colour": [
+        "#95E2FF"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "26.39"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "16"
+    ],
+    "filament_settings_id": [
+        "Amolen Transparent PLA - Blue_White"
+    ],
+    "filament_vendor": [
+        "Amolen"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Amolen Transparent PLA - Blue_White",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "pressure_advance": [
+        "0.019"
+    ],
+    "slow_down_layer_time": [
+        "4"
+    ],
+    "slow_down_min_speed": [
+        "15"
+    ],
+    "version": "1.7.0.30"
+}

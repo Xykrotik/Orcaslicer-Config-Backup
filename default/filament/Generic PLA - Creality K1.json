@@ -1,0 +1,28 @@
+{
+    "additional_cooling_fan_speed": [
+        "80"
+    ],
+    "compatible_printers": [
+        "Creality K1 - 0.4 nozzle"
+    ],
+    "default_filament_colour": [
+        "#C9C9CC"
+    ],
+    "filament_settings_id": [
+        "Generic PLA - Creality K1"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "50"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "50"
+    ],
+    "inherits": "My Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Generic PLA - Creality K1",
+    "slow_down_min_speed": [
+        "20"
+    ],
+    "version": "1.6.1.0"
+}

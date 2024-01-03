@@ -1,0 +1,22 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "3DF Silk PLA"
+    ],
+    "filament_vendor": [
+        "3DF"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA Silk",
+    "is_custom_defined": "0",
+    "name": "3DF Silk PLA",
+    "pressure_advance": [
+        "0.018"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "version": "1.7.0.30"
+}
