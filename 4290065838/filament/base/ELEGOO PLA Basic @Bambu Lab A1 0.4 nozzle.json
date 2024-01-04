@@ -39,7 +39,7 @@
         "1"
     ],
     "enable_pressure_advance": [
-        "1"
+        "0"
     ],
     "eng_plate_temp": [
         "0"
@@ -83,7 +83,7 @@
     "filament_flow_ratio": [
         "0.98"
     ],
-    "filament_id": "P9e4faab",
+    "filament_id": "P6f52551",
     "filament_is_support": [
         "0"
     ],
@@ -97,7 +97,7 @@
         "3"
     ],
     "filament_max_volumetric_speed": [
-        "7.5"
+        "12"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -112,7 +112,7 @@
         "10"
     ],
     "filament_notes": [
-        "https://www.3dffilaments.com\nManufacturer name on Amazon is R2 Online\nLooks like it's more expensive on their site, by a lot, but more items are actually in stock/more selection to choose from? \n\nFilament Specs:\n• +/- 0.02mm deviance\n• 0.5kg Spools\n• Made in China\n\n\nManufacturer Recommendations: \n\nPrint Speed: 60 - 100mm/s\nNozzle Temp: 180C - 210C\nBed Temp: 50C - 70C\n------------\n\nFor Silk PLA, bed temp should be higher than 60C for better adhesion, which is crucial for Silk filaments. \nAdditionally, the slower you go + the hotter you (within temp range), the shinier the Silk PLA will be. "
+        ""
     ],
     "filament_ramming_parameters": [
         "120 100 6.6 6.8 7.2 7.6 7.9 8.2 8.7 9.4 9.9 10.0| 0.05 6.6 0.45 6.8 0.95 7.8 1.45 8.3 1.95 9.7 2.45 10 2.95 7.6 3.45 7.6 3.95 7.6 4.45 7.6 4.95 7.6"
@@ -136,7 +136,7 @@
         "nil"
     ],
     "filament_retraction_length": [
-        "0.5"
+        "nil"
     ],
     "filament_retraction_minimum_travel": [
         "nil"
@@ -145,7 +145,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "3DF PLA Silk @Bambu Lab A1 0.4 nozzle"
+        "ELEGOO PLA Basic @Bambu Lab A1 0.4 nozzle"
     ],
     "filament_shrink": [
         "100%"
@@ -154,7 +154,7 @@
         "0"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\n{if  (bed_temperature[current_extruder] >45)||(bed_temperature_initial_layer[current_extruder] >45)}M106 P3 S255\n{elsif(bed_temperature[current_extruder] >35)||(bed_temperature_initial_layer[current_extruder] >35)}M106 P3 S180\n{endif};Prevent PLA from jamming\n\n{if activate_air_filtration[current_extruder] && support_air_filtration}\nM106 P3 S{during_print_exhaust_fan_speed_num[current_extruder]} \n{endif}"
+        "; filament start gcode\n{if  (bed_temperature[current_extruder] >45)||(bed_temperature_initial_layer[current_extruder] >45)}M106 P3 S255\n{elsif(bed_temperature[current_extruder] >35)||(bed_temperature_initial_layer[current_extruder] >35)}M106 P3 S180\n{endif};Prevent PLA from jamming\n\n\n{if activate_air_filtration[current_extruder] && support_air_filtration}\nM106 P3 S{during_print_exhaust_fan_speed_num[current_extruder]} \n{endif}"
     ],
     "filament_toolchange_delay": [
         "0"
@@ -172,7 +172,7 @@
         "100"
     ],
     "filament_vendor": [
-        "3DF"
+        "ELEGOO"
     ],
     "filament_wipe": [
         "nil"
@@ -191,16 +191,16 @@
         "0"
     ],
     "hot_plate_temp": [
-        "55"
+        "65"
     ],
     "hot_plate_temp_initial_layer": [
-        "55"
+        "65"
     ],
     "inherits": "",
     "is_custom_defined": "0",
-    "name": "3DF PLA Silk @Bambu Lab A1 0.4 nozzle",
+    "name": "ELEGOO PLA Basic @Bambu Lab A1 0.4 nozzle",
     "nozzle_temperature": [
-        "230"
+        "220"
     ],
     "nozzle_temperature_initial_layer": [
         "220"
@@ -218,7 +218,7 @@
         "50%"
     ],
     "pressure_advance": [
-        "0.018"
+        "0.02"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
@@ -233,7 +233,7 @@
         "8"
     ],
     "slow_down_min_speed": [
-        "10"
+        "20"
     ],
     "support_material_interface_fan_speed": [
         "-1"
@@ -245,7 +245,7 @@
         "65"
     ],
     "textured_plate_temp_initial_layer": [
-        "60"
+        "65"
     ],
     "version": "1.8.0.13"
 }
