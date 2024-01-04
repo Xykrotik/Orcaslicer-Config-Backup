@@ -1,0 +1,19 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "filament_flow_ratio": [
+        "1.01871"
+    ],
+    "filament_max_volumetric_speed": [
+        "18"
+    ],
+    "filament_settings_id": [
+        "FF SUNSENKJ PLA+ - White"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @BBL A1",
+    "is_custom_defined": "0",
+    "name": "FF SUNSENKJ PLA+ - White",
+    "version": "1.8.0.13"
+}

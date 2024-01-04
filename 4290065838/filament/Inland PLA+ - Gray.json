@@ -1,0 +1,46 @@
+{
+    "additional_cooling_fan_speed": [
+        "25"
+    ],
+    "complete_print_exhaust_fan_speed": [
+        "40"
+    ],
+    "default_filament_colour": [
+        "#707070"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "40"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "18"
+    ],
+    "filament_settings_id": [
+        "Inland PLA+ - Gray"
+    ],
+    "filament_vendor": [
+        "Inland"
+    ],
+    "from": "User",
+    "inherits": "PolyLite PLA @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "Inland PLA+ - Gray",
+    "overhang_fan_threshold": [
+        "25%"
+    ],
+    "slow_down_min_speed": [
+        "10"
+    ],
+    "textured_plate_temp": [
+        "60"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "version": "1.7.0.30"
+}
