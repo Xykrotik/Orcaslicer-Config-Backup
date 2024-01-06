@@ -233,7 +233,7 @@
         "8"
     ],
     "slow_down_min_speed": [
-        "20"
+        "10"
     ],
     "support_material_interface_fan_speed": [
         "-1"
