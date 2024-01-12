@@ -8,6 +8,9 @@
     "filament_deretraction_speed": [
         "0"
     ],
+    "filament_max_volumetric_speed": [
+        "17"
+    ],
     "filament_retraction_length": [
         "1"
     ],
@@ -21,14 +24,14 @@
     "inherits": "PolyLite PLA @BBL X1C",
     "is_custom_defined": "0",
     "name": "PolyLite PLA - Starlight Mercury",
-    "nozzle_temperature": [
+    "nozzle_temperature_initial_layer": [
         "215"
     ],
     "pressure_advance": [
         "0.019"
     ],
-    "textured_plate_temp": [
-        "60"
+    "slow_down_min_speed": [
+        "10"
     ],
     "textured_plate_temp_initial_layer": [
         "60"

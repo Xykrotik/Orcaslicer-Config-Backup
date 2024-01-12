@@ -1,0 +1,28 @@
+{
+    "default_filament_colour": [
+        "#330033"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "1.008"
+    ],
+    "filament_settings_id": [
+        "INLAND PLA Shimmer - Dark Gray @Bambu Lab A1 0.4 nozzle"
+    ],
+    "from": "User",
+    "inherits": "INLAND PLA Shimmer @Bambu Lab A1 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "INLAND PLA Shimmer - Dark Gray @Bambu Lab A1 0.4 nozzle",
+    "pressure_advance": [
+        "0.024"
+    ],
+    "slow_down_min_speed": [
+        "10"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "version": "1.8.0.13"
+}
