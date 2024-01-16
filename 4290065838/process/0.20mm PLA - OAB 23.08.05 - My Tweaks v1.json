@@ -9,8 +9,8 @@
     "infill_wall_overlap": "20%",
     "inherits": "0.20mm Standard @BBL X1C",
     "initial_layer_acceleration": "1000",
-    "initial_layer_infill_speed": "85",
     "initial_layer_line_width": "0.48",
+    "initial_layer_speed": "85",
     "inner_wall_line_width": "0.42",
     "internal_solid_infill_line_width": "0.5",
     "internal_solid_infill_pattern": "monotonicline",
@@ -39,7 +39,7 @@
     "tree_support_branch_distance": "3",
     "version": "1.6.0.3",
     "wall_generator": "arachne",
-    "wall_infill_order": "inner-outer-inner wall/infill",
     "wall_loops": "3",
+    "wall_sequence": "inner-outer-inner wall",
     "wipe_on_loops": "1"
 }

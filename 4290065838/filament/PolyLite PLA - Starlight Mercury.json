@@ -2,20 +2,11 @@
     "additional_cooling_fan_speed": [
         "20"
     ],
+    "default_filament_colour": [
+        "#C0C0C0"
+    ],
     "enable_pressure_advance": [
         "1"
-    ],
-    "filament_deretraction_speed": [
-        "0"
-    ],
-    "filament_max_volumetric_speed": [
-        "17"
-    ],
-    "filament_retraction_length": [
-        "1"
-    ],
-    "filament_retraction_speed": [
-        "20"
     ],
     "filament_settings_id": [
         "PolyLite PLA - Starlight Mercury"
@@ -29,6 +20,9 @@
     ],
     "pressure_advance": [
         "0.019"
+    ],
+    "slow_down_layer_time": [
+        "5"
     ],
     "slow_down_min_speed": [
         "10"
