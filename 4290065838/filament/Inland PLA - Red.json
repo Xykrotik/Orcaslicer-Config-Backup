@@ -1,6 +1,6 @@
 {
     "additional_cooling_fan_speed": [
-        "25"
+        "20"
     ],
     "complete_print_exhaust_fan_speed": [
         "40"
@@ -18,7 +18,7 @@
         "0.965"
     ],
     "filament_max_volumetric_speed": [
-        "20"
+        "18"
     ],
     "filament_settings_id": [
         "Inland PLA - Red"
@@ -33,9 +33,6 @@
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
     "name": "Inland PLA - Red",
-    "nozzle_temperature": [
-        "215"
-    ],
     "nozzle_temperature_initial_layer": [
         "215"
     ],
@@ -44,6 +41,9 @@
     ],
     "slow_down_min_speed": [
         "10"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
     ],
     "version": "1.7.0.30"
 }
