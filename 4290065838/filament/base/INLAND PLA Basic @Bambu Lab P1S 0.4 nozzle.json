@@ -6,7 +6,7 @@
         "0"
     ],
     "additional_cooling_fan_speed": [
-        "70"
+        "20"
     ],
     "chamber_temperature": [
         "0"
@@ -97,7 +97,7 @@
         "3"
     ],
     "filament_max_volumetric_speed": [
-        "12"
+        "16"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -203,7 +203,7 @@
         "220"
     ],
     "nozzle_temperature_initial_layer": [
-        "220"
+        "215"
     ],
     "nozzle_temperature_range_high": [
         "240"
@@ -215,7 +215,7 @@
         "100"
     ],
     "overhang_fan_threshold": [
-        "50%"
+        "25%"
     ],
     "pressure_advance": [
         "0.02"
@@ -230,10 +230,10 @@
         "1"
     ],
     "slow_down_layer_time": [
-        "8"
+        "4"
     ],
     "slow_down_min_speed": [
-        "20"
+        "10"
     ],
     "support_material_interface_fan_speed": [
         "-1"
@@ -245,7 +245,7 @@
         "55"
     ],
     "textured_plate_temp_initial_layer": [
-        "55"
+        "60"
     ],
     "version": "1.8.0.13"
 }

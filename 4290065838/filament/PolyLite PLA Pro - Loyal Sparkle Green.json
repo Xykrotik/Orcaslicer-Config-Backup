@@ -1,6 +1,6 @@
 {
     "additional_cooling_fan_speed": [
-        "25"
+        "20"
     ],
     "complete_print_exhaust_fan_speed": [
         "40"
@@ -21,7 +21,7 @@
         "17"
     ],
     "filament_retraction_length": [
-        "1"
+        "0.8"
     ],
     "filament_retraction_speed": [
         "30"
@@ -36,9 +36,6 @@
     "inherits": "PolyLite PLA @BBL X1C",
     "is_custom_defined": "0",
     "name": "PolyLite PLA Pro - Loyal Sparkle Green",
-    "nozzle_temperature": [
-        "215"
-    ],
     "overhang_fan_threshold": [
         "25%"
     ],
@@ -47,9 +44,6 @@
     ],
     "slow_down_min_speed": [
         "10"
-    ],
-    "textured_plate_temp": [
-        "60"
     ],
     "textured_plate_temp_initial_layer": [
         "60"
