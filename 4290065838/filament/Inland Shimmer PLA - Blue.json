@@ -1,6 +1,6 @@
 {
     "additional_cooling_fan_speed": [
-        "0"
+        "25"
     ],
     "default_filament_colour": [
         "#0080FF"
@@ -27,8 +27,14 @@
     "inherits": "PolyLite PLA @BBL X1C",
     "is_custom_defined": "0",
     "name": "Inland Shimmer PLA - Blue",
-    "nozzle_temperature_initial_layer": [
-        "225"
+    "nozzle_temperature": [
+        "215"
+    ],
+    "overhang_fan_threshold": [
+        "25%"
+    ],
+    "slow_down_min_speed": [
+        "10"
     ],
     "textured_plate_temp_initial_layer": [
         "60"

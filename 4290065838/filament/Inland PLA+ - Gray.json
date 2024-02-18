@@ -30,6 +30,9 @@
     "inherits": "PolyLite PLA @BBL X1C",
     "is_custom_defined": "0",
     "name": "Inland PLA+ - Gray",
+    "nozzle_temperature": [
+        "215"
+    ],
     "overhang_fan_threshold": [
         "25%"
     ],
