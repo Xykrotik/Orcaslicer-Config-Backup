@@ -2,39 +2,30 @@
     "additional_cooling_fan_speed": [
         "20"
     ],
-    "complete_print_exhaust_fan_speed": [
-        "40"
-    ],
     "default_filament_colour": [
-        "#FCD825"
-    ],
-    "during_print_exhaust_fan_speed": [
-        "40"
+        "#FFFFFF"
     ],
     "enable_pressure_advance": [
         "1"
     ],
     "filament_flow_ratio": [
-        "1.0395"
+        "0.95"
     ],
     "filament_max_volumetric_speed": [
-        "16"
+        "15"
     ],
     "filament_settings_id": [
-        "Inland PLA+ - Yellow"
-    ],
-    "filament_vendor": [
-        "Inland"
+        "FF SUNSENKJ White PLA+"
     ],
     "from": "User",
-    "inherits": "PolyLite PLA @BBL X1C",
+    "inherits": "Generic PLA",
     "is_custom_defined": "0",
-    "name": "Inland PLA+ - Yellow",
+    "name": "FF SUNSENKJ White PLA+",
     "overhang_fan_threshold": [
         "25%"
     ],
-    "pressure_advance": [
-        "0.017"
+    "slow_down_layer_time": [
+        "4"
     ],
     "slow_down_min_speed": [
         "10"
@@ -42,5 +33,5 @@
     "textured_plate_temp_initial_layer": [
         "60"
     ],
-    "version": "1.7.0.30"
+    "version": "1.8.0.13"
 }
